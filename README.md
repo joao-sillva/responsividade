@@ -1,7 +1,7 @@
 # Responsividade
 
 ## Desktop
-![responsividade](image/desktop.png)
+![responsividade](images/desktop.png)
 
 ## Mobile
-<img src="image/mobile.png" width="250px">
+<img src="images/mobile.png" width="250px">
