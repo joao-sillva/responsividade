@@ -1,5 +1,6 @@
 PROJETO
 
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 <div align="center">
@@ -59,3 +60,10 @@ Se você tiver alguma dúvida ou quiser entrar em contato, você pode me enviar 
 [LinkedIn](https://www.linkedin.com/in/joao-sillva/).
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+=======
+## Desktop
+![responsividade](images/desktop.png)
+
+## Mobile
+<img src="images/mobile.png" width="250px">
+>>>>>>> a6ed5c7a550cd41a5e04ea7b6dcb22a5f24c79fe
