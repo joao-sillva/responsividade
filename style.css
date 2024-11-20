@@ -23,6 +23,30 @@ main h1 {
   margin-bottom: 1.5rem;
 }
 
+main p:first-child {
+  color: #7158EF;
+  line-height: 3.2rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 1.7rem;
+}
+
+main h1 + p {
+  color: rgba(10, 0, 57, 0.64);
+  line-height: 3.2rem;
+  margin-bottom: 3.2rem;
+}
+
+main a {
+  color: #090039;
+  line-height: 3.2rem;
+  text-decoration: none;
+}
+
+main a:hover {
+  color: #7158EF;
+}
+
 main ul {
   margin-top: 7.2rem;
   list-style: none;
