@@ -15,6 +15,11 @@ body {
   padding: 6.5rem 2.3rem;
 }
 
+main {
+  max-width: 32.9rem;
+  margin: 0 auto;
+}
+
 main h1 {
   color: #090039;
   font-size: 4rem;
@@ -50,4 +55,24 @@ main a:hover {
 main ul {
   margin-top: 7.2rem;
   list-style: none;
+}
+
+main ul li {
+  color: #090039;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 3.2rem;
+
+  max-width: 25.7rem;
+  display: flex;
+  gap: 3.8rem;
+  margin-bottom: 3.2rem;
+}
+
+main ul li span {
+  color: #090039;
+  font-size: 7.2rem;
+  font-weight: 800;
+  line-height: 8rem;
+  letter-spacing: -2px;
 }
