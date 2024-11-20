@@ -76,3 +76,25 @@ main ul li span {
   line-height: 8rem;
   letter-spacing: -2px;
 }
+
+@media (min-width: 700px) {
+  body {
+    padding: 8rem;
+  }
+
+  main {
+    max-width: 102rem;
+    display: flex;
+    gap: 10rem;
+  }
+
+  main > div {
+    max-width: 48.5rem;
+  }
+
+  main ul li{
+    gap: 5.4rem;
+    max-width: 45rem;
+    align-items: center;
+  }
+}
