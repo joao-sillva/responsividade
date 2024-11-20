@@ -3,3 +3,27 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Epilogue', sans-serif;
+  background: #ECE9FD;
+  font-size: 1.6rem;
+  padding: 6.5rem 2.3rem;
+}
+
+main h1 {
+  color: #090039;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 4.8rem;
+  margin-bottom: 1.5rem;
+}
+
+main ul {
+  margin-top: 7.2rem;
+  list-style: none;
+}
